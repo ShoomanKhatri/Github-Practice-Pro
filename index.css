@@ -52,4 +52,5 @@ footer {
     color: #fff;              // !important  should be less use.
     padding: 20px;
     text-align: center;
+/*     display:flex; */
 }
