@@ -61,3 +61,27 @@ Create a new branch to work on a new feature or fix:
 ```
 git checkout -b new-feature
 ```
+Merge changes from one branch into another:
+
+```
+git checkout branch-name   # Switch to the branch you want to merge changes into
+git merge other-branch     # Merge changes from other-branch into the current branch
+```
+12. Handling Merge Conflicts
+If there are conflicts during merging, resolve them manually in the affected files, then commit the changes.
+
+13. Reviewing Pull Requests (for collaborative projects)
+  Create a new branch for your feature or fix.
+  Push the branch to your GitHub repository.
+  Create a pull request (PR) from your branch to the main branch.
+  Collaborators review the code, ask questions, and suggest changes if needed.
+  Once the PR is approved, it can be merged into the main branch.
+
+14. GitHub Features
+Explore GitHub features like issues, project boards, and wikis to enhance collaboration and project management.
+
+15. GitHub Pages
+Utilize GitHub Pages to host a website directly from your GitHub repository.
+
+Conclusion
+GitHub is a powerful platform for version control and collaboration. By following these steps, you can effectively manage your projects and collaborate with others. Remember to regularly commit changes, pull updates from the remote repository, and communicate with your collaborators using GitHub's features.
