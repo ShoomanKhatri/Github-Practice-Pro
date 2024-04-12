@@ -21,7 +21,19 @@ git config --global user.email "youremail@example.com"
   Choose a name for your repository, add a description if needed, and select other options like visibility (public or private).
   Click on "Create repository".
 
-5. Cloning a Repository
+5.
+  Initializing a Local Repository
+  Initialize a new Git repository in your project directory:
+  ```
+  git init
+```
+Setting Up the Remote Repository
+Associate your local repository with a remote repository on GitHub:
+```
+git remote add origin https://github.com/yourusername/repository-name.git
+```
+ 
+ Cloning a Repository
   To work on an existing repository locally, you need to clone it to your computer:
 ```
 git clone https://github.com/yourusername/repository-name.git
