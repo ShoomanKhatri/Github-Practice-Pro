@@ -8,3 +8,7 @@ Git is a version control system that GitHub is built on. Install Git from git-sc
 
 3. Setting Up Git
 Configure Git with your username and email address using the following commands:
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"  
