@@ -11,4 +11,9 @@ Configure Git with your username and email address using the following commands:
 
 ```
 git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"  
+git config --global user.email "youremail@example.com"
+```
+4. Creating a New Repository
+Click on the "+" sign in the top-right corner of GitHub and select "New repository".
+Choose a name for your repository, add a description if needed, and select other options like visibility (public or private).
+Click on "Create repository".
