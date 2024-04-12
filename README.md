@@ -55,3 +55,9 @@ If there are new changes in the remote repository, pull them to your local repos
 ```
 git pull origin branch-name
 ```
+
+11. Branching and Merging
+Create a new branch to work on a new feature or fix:
+```
+git checkout -b new-feature
+```
