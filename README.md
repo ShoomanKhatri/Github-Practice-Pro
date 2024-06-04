@@ -134,5 +134,11 @@ Conclusion
    - Integrated with Atlassian products like Jira and Trello.
 
 3. **SourceForge**:
+
    - One of the oldest platforms for hosting open-source projects.
    - Offers project management tools and a large community.
+
+4. **Azure DevOps**:
+   - Microsoft's platform with integrated CI/CD.
+   - Supports Git repositories.
+   - Extensive project management and collaboration tools.
