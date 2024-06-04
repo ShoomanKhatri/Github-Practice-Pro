@@ -120,3 +120,8 @@ Conclusion
 ```
 
 ## Alternative of Github:
+
+1. **GitLab**:
+   - Offers both self-hosted and cloud-hosted options.
+   - Integrated CI/CD pipelines.
+   - Free private repositories.
