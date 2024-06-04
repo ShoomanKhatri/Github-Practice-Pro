@@ -145,6 +145,12 @@ Conclusion
    - Extensive project management and collaboration tools.
 
 5. **AWS CodeCommit**:
+
    - Managed source control service hosted by Amazon.
    - Secure and scalable.
    - Integrates well with other AWS services.
+
+6. **Gitea**:
+   - Self-hosted Git service that is lightweight and easy to install.
+   - Similar interface to GitHub.
+   - Open-source and highly customizable.
