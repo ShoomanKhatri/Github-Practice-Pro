@@ -169,4 +169,3 @@ Conclusion
 
 9. **Launchpad**:
    - Developed by Canonical
-     123
