@@ -139,6 +139,12 @@ Conclusion
    - Offers project management tools and a large community.
 
 4. **Azure DevOps**:
+
    - Microsoft's platform with integrated CI/CD.
    - Supports Git repositories.
    - Extensive project management and collaboration tools.
+
+5. **AWS CodeCommit**:
+   - Managed source control service hosted by Amazon.
+   - Secure and scalable.
+   - Integrates well with other AWS services.
