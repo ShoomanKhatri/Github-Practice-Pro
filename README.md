@@ -151,6 +151,21 @@ Conclusion
    - Integrates well with other AWS services.
 
 6. **Gitea**:
+
    - Self-hosted Git service that is lightweight and easy to install.
    - Similar interface to GitHub.
    - Open-source and highly customizable.
+
+7. **Gogs**:
+
+   - Another lightweight self-hosted Git service.
+   - Easy to set up and use.
+   - Written in Go, making it fast and efficient.
+
+8. **Phabricator**:
+
+   - Comprehensive suite of open-source tools for peer code review, task management, and project communication.
+   - Can be self-hosted or used via third-party hosting providers.
+
+9. **Launchpad**:
+   - Developed by Canonical
