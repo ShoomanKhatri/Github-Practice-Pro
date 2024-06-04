@@ -128,6 +128,11 @@ Conclusion
    - Free private repositories.
 
 2. **Bitbucket**:
+
    - Provides free private repositories.
    - Supports Git and Mercurial.
    - Integrated with Atlassian products like Jira and Trello.
+
+3. **SourceForge**:
+   - One of the oldest platforms for hosting open-source projects.
+   - Offers project management tools and a large community.
