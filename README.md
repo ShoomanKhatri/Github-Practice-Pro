@@ -169,5 +169,5 @@ Conclusion
 
 9. **Launchpad**:
    - Developed by Canonical
-   
-github is  good and useful..
+
+github is  good and useful.
