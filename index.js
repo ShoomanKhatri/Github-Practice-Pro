@@ -8,4 +8,5 @@ let y = "1";
 // console.log(x + y);
 //this will return 11
 
-console.log(5+true);
+console.log(5 + true);
+//this will return 6;
