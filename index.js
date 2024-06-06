@@ -22,3 +22,4 @@ let s = "hello";
 // Print the original value of s
 
 s = s.concat("world");
+console.log(s);
