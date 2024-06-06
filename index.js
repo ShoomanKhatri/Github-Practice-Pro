@@ -21,5 +21,6 @@ let s = "hello";
 // console.log(s);
 // Print the original value of s
 
-s = s.concat("world");
+s = s.concat(" world");
 console.log(s);
+//returns hello world
