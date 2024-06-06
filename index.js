@@ -11,4 +11,5 @@ let y = "1";
 // console.log(5 + true);
 //this will return 6;
 
-console.log((5+true)*false);
+console.log((5 + true) * false);
+//this will returns 0
