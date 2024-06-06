@@ -14,9 +14,11 @@ let y = "1";
 // console.log((5 + true) * false);
 //this will returns 0
 
-let s = "hello"; 
+let s = "hello";
 // Initialize the variable s with the string "hello"
-// s.concat("world"); 
+// s.concat("world");
 // Concatenate 'world' to s, but the result is not stored or used
-// console.log(s); 
+// console.log(s);
 // Print the original value of s
+
+s = s.concat("world");
